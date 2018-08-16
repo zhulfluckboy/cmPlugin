@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="apache">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/apache" />
+      <root url="file://$PROJECT_DIR$/lib/appframe" />
+      <root url="file://$PROJECT_DIR$/lib/csf" />
+      <root url="file://$PROJECT_DIR$/lib/other" />
+      <root url="file://$PROJECT_DIR$/lib/poi" />
+      <root url="file://$PROJECT_DIR$/lib/runtime" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/apache" />
+      <root url="file://$PROJECT_DIR$/lib/appframe" />
+      <root url="file://$PROJECT_DIR$/lib/other" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib/apache" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/appframe" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/csf" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/other" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/poi" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/runtime" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/apache" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/appframe" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/other" recursive="false" type="SOURCES" />
+  </library>
+</component>
